@@ -1,3 +1,3 @@
-public transaction 
+public class transaction 
 {
 }
